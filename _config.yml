@@ -1,0 +1,8 @@
+title: The Scholar's Ascent
+description: A gamified journey through Research Writing
+theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+baseurl: "" # leave empty if deploying to root
+url: "https://SuryaKiran89.github.io"
