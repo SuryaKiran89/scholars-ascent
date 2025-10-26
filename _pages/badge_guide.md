@@ -275,3 +275,5 @@ parent: Implementation
 **Week 17**: Hall Defender and all final badges awarded after viva
 
 **Ongoing**: Skill, Community, and Hidden badges awarded as soon as earned
+
+
