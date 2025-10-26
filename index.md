@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Welcome
-nav_order: 1
+title: Home
+nav_order: 0
 ---
 
-# 🏔️ Welcome to The Scholar’s Ascent
+# 🧭 Welcome to The Scholar’s Ascent
 
-Begin your journey through the five territories of Research Writing. Use the sidebar to explore modules, earn badges, and track your progress.
+Explore the five territories of Research Writing. Use the sidebar to navigate quests, badges, and maps.
